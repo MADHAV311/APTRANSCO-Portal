@@ -1,0 +1,6 @@
+{
+  "name": "APTRANSCO Website Design Studio",
+  "description": "An interactive, high-fidelity reference design concept and prototype submission for the APTRANSCO Website Design Competition 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
