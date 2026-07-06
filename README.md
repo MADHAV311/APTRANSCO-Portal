@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# APTRANSCO Portal Redesign
 
-# Run and deploy your AI Studio app
+A modern, responsive redesign of the APTRANSCO (Transmission Corporation of Andhra Pradesh Limited) official website.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/de467aaa-18e8-4310-bec8-925a1588054c
+- Modern Government UI/UX
+- Responsive Design
+- Interactive GIS Dashboard
+- Real-time Grid Analytics
+- Frequency Analyzer
+- Demand Monitoring
+- Energy Trends
+- Department Pages
+- Advanced Search
+- Accessibility Features
+- English / Telugu Language Support
+- Tailwind CSS
+- React + TypeScript
+- Framer Motion Animations
 
-## Run Locally
+## Technology Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- Vite
 
+## Developed for
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+APTRANSCO Website Redesign Competition
+
+Author: MADHAV311
